@@ -1,0 +1,8 @@
+Comentarios: 
+- El informe es bueno y el estudio de parámetros también 
+- Los códigos están comentados
+- La comparación de métodos está bien
+- No es necesario (y no está bien) definir (fijar) el paso en el tiempo $h$ y el vector de tiempos $time$ de manera
+  independiente dentro de la función de euler_modificado 
+
+Nota: 4.8 
